@@ -1,4 +1,4 @@
-# Hola, mi nome es Ignacio Mena
+# Hola, mi nombre es Ignacio Mena
 Aunque en github soy 1gnale, alguien ya habia tomado ignale
 # ¿Quién soy?
 Soy desarrollador Full Stack orientado a desarrollo back end

@@ -87,8 +87,6 @@ Cuando no estoy programando, me gusta:
   
 ### ⭐ Si mis proyectos te parecen interesantes, ¡no dudes en dar una estrella! ⭐
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=1gnale.1gnale)
-
 **¡Gracias por visitar mi perfil!** 🚀
 
 </div>

@@ -63,7 +63,6 @@ Java                   ███████████████████
 - 🔄 **Mejora Continua**: Siempre buscando optimizar y aprender
 - 🤝 **Colaboración**: Creo en el poder del trabajo en equipo
 - 🧪 **Testing**: La calidad es fundamental en todo lo que hago
-- 🌍 **Open Source**: Contribuyo activamente a la comunidad
 
 ## 🎨 Hobbies e Intereses
 
@@ -73,7 +72,6 @@ Cuando no estoy programando, me gusta:
 - 📚 **Lectura**: Libros de ciencia ficción y tecnología
 - 🎵 **Música**: Producción musical digital
 - 🌟 **Astronomía**: Exploración del cosmos
-- 🏃‍♂️ **Deportes**: Running y ciclismo
 
 ## 💬 Cita Favorita
 

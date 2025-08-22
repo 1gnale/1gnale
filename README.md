@@ -24,7 +24,7 @@ Java                   ███████████████████
 ```
 
 ### Frontend
-- **Frameworks/Libraries**: React, Vue.js, Angular, Next.js
+- **Frameworks/Libraries**: React
 - **Styling**: Tailwind CSS, Bootstrap, Styled-components, SASS/SCSS
 - **Tools**: Vite, Webpack, Babel
 

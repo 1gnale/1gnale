@@ -38,7 +38,6 @@ Java                   ███████████████████
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1gnale&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1gnale&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
